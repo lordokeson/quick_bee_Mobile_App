@@ -1,2 +1,8 @@
-# quick_bee_Mobile_App
-it is a demo android mobile app buit with flutter frame work using dart code
+# quick_bee_youtube
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
